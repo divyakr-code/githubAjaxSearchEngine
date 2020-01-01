@@ -1,0 +1,27 @@
+body{
+    background-color: #f0efe9;
+    font-family: 'Montserrat', sans-serif !important;
+
+}
+.p-35px{
+    padding: 35px;
+}
+.p-25px{
+    padding:25px;
+}
+.profileImage{
+    height: 125px;
+    border-radius: 50%;
+}
+.m-b-10px{
+margin-bottom: 10px;
+}
+.results{
+    display:none;
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    height: 30px;
+    width: 100%;
+}
